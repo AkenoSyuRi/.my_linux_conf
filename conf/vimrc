@@ -1,0 +1,4 @@
+set incsearch hlsearch
+set number relativenumber
+set autoindent tabstop=4 shiftwidth=4 expandtab
+
