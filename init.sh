@@ -18,3 +18,5 @@ if $force || [ ! -e "$HOME/.vimrc" ]; then
     ln -sf "$cwd/conf/vimrc" "$HOME/.vimrc"
 fi
 
+# TODO: add .condarc to ~/.condarc
+# TODO: add pip.conf to ~/.config/pip.conf
